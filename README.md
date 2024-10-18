@@ -1,0 +1,2 @@
+# blumbot
+Blum auto bot
